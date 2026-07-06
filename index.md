@@ -109,6 +109,7 @@ same topics.
 - [Japanese](https://missing-semester-jp.github.io/)
 - [Kannada](https://missing-semester-kn.github.io/)
 - [Korean](https://missing-semester-kr.github.io/)
+- [Mongolian](https://missing-semester-mn.github.io)
 - [Persian](https://missing-semester-fa.github.io/)
 - [Portuguese](https://missing-semester-pt.github.io/)
 - [Russian](https://missing-semester-rus.github.io/)
@@ -118,7 +119,6 @@ same topics.
 - [Thai](https://missing-semester-th.github.io/)
 - [Turkish](https://missing-semester-tr.github.io/)
 - [Vietnamese](https://missing-semester-vn.github.io/)
-- [Mongolian](https://missing-semester-mn.github.io/)
 
 Тэмдэглэл: Эдгээр нь олон нийтийн хийсэн орчуулгын гадны холбоосууд бөгөөд бид тэдгээрийг хянаж шалгаагүй болно.
 
