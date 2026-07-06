@@ -1,0 +1,38 @@
+# Setup
+title: 'Missing Semester'
+url: https://missing-semester-mn.github.io
+thumbnail: "/static/assets/thumbnails/default.png"
+
+# Settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  parse_block_html: true
+highlighter: rouge
+permalink: /:title/
+future: true
+# safe: true # breaks local rendering if enabled
+timezone: Asia/Ulaanbaatar
+# analytics:
+#   tracking_id: YOUR_TRACKING_ID
+
+collections:
+  '2019':
+    output: true
+  '2020':
+    output: true
+  '2026':
+    output: true
+
+# Excludes
+exclude:
+  - AGENTS.md
+  - CNAME
+  - Dockerfile
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - browser.sh
+  - docker-compose.yml
+  - vendor
