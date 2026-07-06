@@ -118,6 +118,7 @@ same topics.
 - [Thai](https://missing-semester-th.github.io/)
 - [Turkish](https://missing-semester-tr.github.io/)
 - [Vietnamese](https://missing-semester-vn.github.io/)
+- [Mongolian](https://missing-semester-mn.github.io/)
 
 Тэмдэглэл: Эдгээр нь олон нийтийн хийсэн орчуулгын гадны холбоосууд бөгөөд бид тэдгээрийг хянаж шалгаагүй болно.
 
