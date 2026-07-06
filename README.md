@@ -1,10 +1,6 @@
 # The Missing Semester of Your CS Education (Монгол орчуулга)
 
-[![Build Status](https://github.com/missing-semester-mn/missing-semester-mn.github.io/actions/workflows/build.yml/badge.svg)](https://github.com/missing-semester-mn/missing-semester-mn.github.io/actions/workflows/build.yml) [![Links Status](https://github.com/missing-semester-mn/missing-semester-mn.github.io/actions/workflows/links.yml/badge.svg)](https://github.com/missing-semester-mn/missing-semester-mn.github.io/actions/workflows/links.yml)
-
-Энэ нь [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) хичээлийн Монгол хэл дээрх орчуулга юм.
-
-Анхны эх хувилбарыг [missing-semester/missing-semester](https://github.com/missing-semester/missing-semester) репозитороос үзнэ үү.
+Энэ [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) лекцуудын Монгол хэл дээрх орчуулга юм.
 
 Орчуулгатай холбоотой санал, засвар байвал issue нээх эсвэл pull request илгээнэ үү.
 
