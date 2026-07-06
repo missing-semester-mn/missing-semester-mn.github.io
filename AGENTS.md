@@ -4,7 +4,7 @@ This file provides guidance to AI coding agents working with this repository. Se
 
 ## Project Overview
 
-This is the website for **The Missing Semester of Your CS Education** (https://missing.csail.mit.edu/), an MIT class teaching practical computing tools. It's a Jekyll static site hosted on GitHub Pages.
+This is the **Mongolian translation** of [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/), originally an MIT class. It's a Jekyll static site hosted on GitHub Pages at https://missing-semester-mn.github.io/.
 
 ## Build and Test Commands
 
