@@ -44,7 +44,18 @@ jobs:
             https://crates.io
             https://www.vagrantup.com/
             https://www.nongnu.org/atool/
+            https://azure.microsoft.com/
+            https://bsky.app/profile/jonhoo.eu/post/3mfa2bhyuj22i
+            https://git.zx2c4.com/password-store/about/
+            https://nuetzlich.net/gocryptfs/
+            https://nuetzlich.net/gocryptfs/comparison/
+            https://realpython.com/python-debugging-pdb
+            https://support.google.com/chrome/answer/2364824
+            https://www.us-cert.gov/sites/default/files/publications/data_backup_options.pdf
           ignore_url_re: |
+            ^https:\/\/i\.stack\.imgur\.com\/
+            ^https:\/\/marketplace\.visualstudio\.com\/
+            ^https:\/\/vim\.fandom\.com\/
             ^https://www.brendangregg.com/
             ^https:\/\/help\.github\.com\/
             ^https:\/\/linux\.die\.net\/man\/
@@ -55,6 +66,7 @@ jobs:
             ^https:\/\/medium\.com\/
             ^https:\/\/www\.gnu\.org\/
             ^https:\/\/openai\.com\/
+            ^https:\/\/www\.pulsemcp\.com\/
           swap_urls: |
             {"^https:\\/\\/missing-semester-mn\\.github\\.io/": "/",
              "^(https:\\/\\/github\\.com/.*)#.*$": "\\1"}

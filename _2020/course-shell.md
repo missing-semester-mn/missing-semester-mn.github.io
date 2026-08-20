@@ -409,7 +409,7 @@ far, and we will try to help you out.
  1. Use `chmod` to make it possible to run the command `./semester` rather than
     having to type `sh semester`. How does your shell know that the file is
     supposed to be interpreted using `sh`? See this page on the
-    [shebang](https://en.wikipedia.org/wiki/Shebang_(Unix)) line for more
+    [shebang](https://en.wikipedia.org/wiki/Shebang_%28Unix%29) line for more
     information.
  1. Use `|` and `>` to write the "last modified" date output by
     `semester` into a file called `last-modified.txt` in your home
