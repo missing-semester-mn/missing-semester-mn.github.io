@@ -52,6 +52,7 @@ jobs:
             https://realpython.com/python-debugging-pdb
             https://support.google.com/chrome/answer/2364824
             https://www.us-cert.gov/sites/default/files/publications/data_backup_options.pdf
+            https://vimways.org/2019
           ignore_url_re: |
             ^https:\/\/i\.stack\.imgur\.com\/
             ^https:\/\/marketplace\.visualstudio\.com\/

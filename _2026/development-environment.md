@@ -24,7 +24,7 @@ IDE болон Terminal төвтэй workflow хоёр хоёулаа давуу
 
 [vs-code]: https://code.visualstudio.com/
 
-# Текст редактор ба Vim
+# Текст редактор ба Vim {#text-editing-and-vim}
 
 Код бичих үед цагийн ихэнх нь урт текст тасралтгүй бичихэд биш, код дотор хурдан шилжих, хэсэг хэсгээр нь унших, жижиг засваруудыг зөв газарт нь хийхэд зарцуулагддаг. [Vim] яг ийм төрлийн ажилд маш сайн таарсан текст редактор.
 
@@ -181,7 +181,7 @@ Vim-ийг сурах хамгийн сайн арга бол үндсэн ой�
 
 [Vim]: https://www.vim.org/
 
-# Кодын оюун ухаан ба Хэлний серверүүд
+# Кодын оюун ухаан ба Хэлний серверүүд {#code-intelligence-and-language-servers}
 
 IDE-үүд нь ерөнхийдөө [Language Server Protocol](https://microsoft.github.io/language-server-protocol/)-ийг хэрэгжүүлдэг *хэлний серверүүдтэй* (language servers) холбогдох IDE өргөтгөлүүдээр дамжуулан кодыг семантик байдлаар ойлгож, тухайн хэлэнд зориулсан дэмжлэгүүдийг санал болгодог. Жишээлбэл, VS Code-д зориулсан [Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) нь [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) дээр суурилдаг бөгөөд [Go extension](https://marketplace.visualstudio.com/items?itemName=golang.go) нь [gopls](https://go.dev/gopls/)-ийг ашигладаг. Хөгжүүлэлт хийж буй хэлнийхээ өргөтгөл болон хэлний серверийг суулгаснаар та өөрийн IDE дээр дараах боломжуудыг идэвхжүүлэх боломжтой:
 
@@ -198,7 +198,7 @@ IDE-үүд нь ерөнхийдөө [Language Server Protocol](https://microsof
 
 Тухайн хэлнээс хамааран та өөрийн хэлний серверт зориулж зарим тохиргоог хийж болно. Жишээлбэл, VS Code-ийн Python дэмжлэгийг ашиглан Python-ий нэмэлт төрлийн тэмдэглэгээ ашигладаггүй төслүүдийн хувьд статик төрөл шалгах үйлдлийг идэвхгүй болгож болно.
 
-# AI-д суурилсан хөгжүүлэлт
+# AI-д суурилсан хөгжүүлэлт {#ai-powered-development}
 
 2021 оны дунд үеэс эхлэн OpenAI-ийн [Codex загвар](https://openai.com/index/openai-codex/) дээр суурилсан [GitHub Copilot][github-copilot] гарч ирснээр [LLM](https://en.wikipedia.org/wiki/Large_language_model)-үүдийг програм хангамжийн инженерчлэлд маш өргөнөөр ашиглах болсон. Одоогоор ашиглагдаж буй үндсэн гурван хэлбэр нь: autocomplete, inline chat болон coding agents юм.
 
@@ -289,7 +289,7 @@ Coding agents-ийн талаар [Агентлаг програмчлал](/202
 
 Түгээмэл хэрэглэгддэг AI IDE-үүд бол [GitHub Copilot][github-copilot] өргөтгөл бүхий [VS Code][vs-code] болон [Cursor](https://cursor.com/) юм. GitHub Copilot нь одоогоор [оюутнууд](https://github.com/education/students), багш нар болон түгээмэл нээлттэй эхийн төслийг хөгжүүлэгчдэд үнэ төлбөргүй ашиглаж болно байдаг. Энэ салбар маш хурдацтай хөгжиж байгаа бөгөөд тэргүүлэгч бүтээгдэхүүнүүд нь ерөнхийдөө ижил төстэй функцуудыг санал болгож байна.
 
-# Өргөтгөлүүд болон бусад IDE-ийн функцууд
+# Өргөтгөлүүд болон бусад IDE-ийн функцууд {#extensions-and-other-ide-functionality}
 
 IDE-үүд нь маш сайн хэрэгсэл бөгөөд өргөтгөлүүдийн (extensions) тусламжтайгаар бүр ч илүү сайн болдог. Бид эдгээр бүх боломжийг нэг лекцээр багтаан зааж чадахгүй тул түгээмэл хэрэглэгддэг цөөн хэдэн өргөтгөлийг энд дурдъя. Та энэ чиглэлээр өөрөө бие даан судлаарай; онлайнд маш олон шилдэг өргөтгөлийн жагсаалтууд байдаг (жишээ нь, Vim-ийн залгаасуудад зориулсан [Vim Awesome](https://vimawesome.com/) болон [VS Code extensions sorted by popularity](https://marketplace.visualstudio.com/search?target=VSCode&category=All%20categories&sortBy=Installs)).
 
