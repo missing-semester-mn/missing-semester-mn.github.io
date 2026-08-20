@@ -29,14 +29,13 @@ phony: true
   {% endfor %}
 </ul>
 
-Лекцийн видео бичлэгүүдийг [YouTube хуудаснаас](https://www.youtube.com/playlist?list=PLyzOVJj3bHQunmnnTXrNbZnBaCA-ieK4L)
-үзэх боломжтой.
+Лекцийн бичлэгүүдийг [YouTube дээрээс](https://www.youtube.com/playlist?list=PLyzOVJj3bHQunmnnTXrNbZnBaCA-ieK4L)
+үзэж болно.
 
 # MIT-ээс гадуур
 
-Бусад хүмүүст ч мөн эдгээр нөөц боломжууд ач тусаа өгнө гэж найдан бид энэхүү
-хичээлийг MIT-ээс гадуур хуваалцсан. Та дараах платформ дээрх нийтлэл,
-хэлэлцүүлгүүдийг үзэх боломжтой:
+Энэ материал MIT-ээс гадуурх хүмүүст ч хэрэг болно гэж бодоод бид олон нийтэд
+нээлттэй тавьсан. Доорх газруудад энэ хичээлийн тухай нийтлэл, хэлэлцүүлгүүд бий:
 
 - [Hacker News](https://news.ycombinator.com/item?id=47124171)
 - [Lobsters](https://lobste.rs/s/q4ykw7/missing_semester_your_cs_education_2026)
@@ -49,7 +48,6 @@ phony: true
 
 # Талархал
 
-Лекцийн видеог бичих боломжийг олгосон Elaine Mello болон [MIT Open Learning](https://openlearning.mit.edu/)-д
-талархал илэрхийлье. Мөн [SIPB IAP 2026](https://sipb.mit.edu/iap/)-ийн
-хүрээнд энэхүү хичээлийг дэмжсэн Luis Turino / [SIPB](https://sipb.mit.edu/)-д
-талархал илэрхийлье.
+Лекцийн бичлэг хийхэд тусалсан Elaine Mello болон [MIT Open Learning](https://openlearning.mit.edu/)-д
+баярлалаа. Мөн [SIPB IAP 2026](https://sipb.mit.edu/iap/)-ийн хүрээнд энэ
+хичээлийг дэмжсэн Luis Turino болон [SIPB](https://sipb.mit.edu/)-д талархаж байна.
