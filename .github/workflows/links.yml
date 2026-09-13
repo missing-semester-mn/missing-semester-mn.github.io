@@ -68,6 +68,7 @@ jobs:
             ^https:\/\/www\.gnu\.org\/
             ^https:\/\/openai\.com\/
             ^https:\/\/www\.pulsemcp\.com\/
+            ^https:\/\/warpspeed\.dev\/?$
           swap_urls: |
             {"^https:\\/\\/missing-semester-mn\\.github\\.io/": "/",
              "^(https:\\/\\/github\\.com/.*)#.*$": "\\1"}
