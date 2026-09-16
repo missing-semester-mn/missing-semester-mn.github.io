@@ -4,6 +4,10 @@
 
 Орчуулгатай холбоотой санал, засвар байвал issue нээх эсвэл pull request илгээнэ үү.
 
+## Credits
+
+Mongolian translation by [Ariunbayar Enkhtaivan](https://github.com/ariuxklc) (`ariuxklc`).
+
 ## Хөгжүүлэлт
 
 Сайтыг локал орчинд ажиллуулахын тулд:
@@ -23,4 +27,4 @@ Jekyll нь файлд өөрчлөлт оруулах бүрт сайтыг а�
 
 ## Лиценз
 
-Энэхүү хичээлийн бүх агуулга нь [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) лицензээр зохицуулагдана. 
+Энэхүү хичээлийн бүх агуулга нь [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) лицензээр зохицуулагдана.
