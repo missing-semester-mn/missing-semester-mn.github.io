@@ -1,16 +1,16 @@
 # The Missing Semester of Your CS Education (Монгол орчуулга)
 
-Энэ [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) лекцуудын Монгол хэл дээрх орчуулга юм.
+Энэхүү төсөл нь [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) хичээлийн лекцүүдийн монгол орчуулга юм.
 
-Орчуулгатай холбоотой санал, засвар байвал issue нээх эсвэл pull request илгээнэ үү.
+Орчуулгатай холбоотой санал хүсэлтээ issue нээж, засвараа pull request-ээр илгээнэ үү.
 
-## Credits
+## Орчуулагч
 
-Mongolian translation by [Ariunbayar Enkhtaivan](https://github.com/ariuxklc) (`ariuxklc`).
+Энэхүү монгол орчуулгыг [Ariunbayar Enkhtaivan](https://github.com/ariuxklc) (`ariuxklc`) хийж, хөтлөн явуулж байна.
 
-## Хөгжүүлэлт
+## Локал орчинд ажиллуулах
 
-Сайтыг локал орчинд ажиллуулахын тулд:
+Сайтыг өөрийн компьютерт ажиллуулахын тулд:
 
 ```bash
 bundle exec jekyll serve -w
@@ -22,9 +22,9 @@ Docker ашиглах бол:
 docker compose up --build
 ```
 
-Дараа нь <http://localhost:4000> хаягаар орж үзнэ үү.
-Jekyll нь файлд өөрчлөлт оруулах бүрт сайтыг автоматаар дахин бүтээнэ.
+Дараа нь <http://localhost:4000> хаягийг нээнэ үү.
+Jekyll файлуудад өөрчлөлт оруулах бүрд сайтыг автоматаар дахин үүсгэнэ.
 
 ## Лиценз
 
-Энэхүү хичээлийн бүх агуулга нь [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) лицензээр зохицуулагдана.
+Энэхүү хичээлийн бүх агуулгыг [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) лицензийн нөхцөлийн дагуу ашиглана.
